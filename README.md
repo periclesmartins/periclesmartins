@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hello, I'm @periclesperes<br>- 🌎 I am Brazilian<br>- 👀 I am interested in web development<br>- 🌱 I'm currently learning HTML, CSS, and Javascript.
+- 👋 Hello, I'm @periclesperes<br>- 👀 I am interested in web development<br>- 🌱 I'm currently learning HTML, CSS, and Javascript.
 
 
 ## 🌐 Socials:
