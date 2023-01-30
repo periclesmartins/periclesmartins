@@ -13,10 +13,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=periclesmartins&theme=gotham&hide_border=false&include_all_commits=true&count_private=true" style="width: 80vw; height: 200px;">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=periclesmartins&theme=gotham&hide_border=false" style="width: 80vw; height: 200px;">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=periclesmartins&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact" style="width: 80vw; height: 200px;">
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
 [![](https://visitcount.itsvg.in/api?id=periclesmartins&icon=5&color=0)](https://visitcount.itsvg.in)
 
   
