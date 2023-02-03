@@ -1,6 +1,6 @@
 <h1>💫 About Me:</h1>
 <div style="text-align: center;">
-- 👋 Hello, I'm @periclesperes<br>- 👀 I am interested in web development<br>- 🌱 I'm currently learning HTML, CSS, and Javascript.
+- 👋 Hello, I'm Péricles Peres Maciel Martins<br>- 👀 I am interested in web development<br>- 🌱 I'm currently learning HTML, CSS, and Javascript.
 </div>
 
 
