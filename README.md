@@ -1,20 +1,24 @@
-<h1>💫 About Me:</h1>
-<div style="text-align: center;">
-- 👋 Hello, I'm Péricles Peres Maciel Martins<br>- 👀 I am interested in web development<br>- 🌱 I'm currently learning HTML, CSS, and Javascript.
+[![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=DA1313&multiline=true&width=435&lines=Hello+Dev!;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
+
+##
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=periclesmartins&show_icons=true&count_private=true&hide_border=true&border_color=ffffff&title_color=DA1313&icon_color=7FFFD4&text_color=c9d1d9&bg_color=0d1117" alt="Péricles Peres github stats"/> 
+  
+  <img width="41%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=periclesmartins&layout=compact&hide_border=true&title_color=DA1313&text_color=c9d1d9&bg_color=0d1117"/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=periclesmartins&&theme=gotham&hide_border=true&title_color=DA1313&text_color=c9d1d9&bg_color=0d1117">
 </div>
 
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/periclespmm) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/periclesperes_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/péricles-peres-814b00219/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/@loucospormmaoficial) 
+##
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=plastic&logo=gimp&logoColor=FFFFFF) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=plastic&logo=adobephotoshop&logoColor=white)
-# 📊 GitHub Stats:
-<img src="https://github-readme-stats.vercel.app/api?username=periclesmartins&theme=gotham&hide_border=false&include_all_commits=true&count_private=true" style="width: 80vw; height: 200px;">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=periclesmartins&theme=gotham&hide_border=false" style="width: 80vw; height: 200px;">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=periclesmartins&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact" style="width: 80vw; height: 200px;">
+<div align="center" style="display: inline_block"><br>
+  <img align="center" title="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" title="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" title="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+</div>
 
-[![](https://visitcount.itsvg.in/api?id=periclesmartins&icon=5&color=0)](https://visitcount.itsvg.in)
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="right"> 
+  <a href="https://www.linkedin.com/in/periclesperes/" target="_blank" alt="Link para o Linkedin do desenvolvedor front-end, Péricles Peres"><img src="https://img.icons8.com/fluency/256/linkedin-circled.png" width="40px" title="Linkedin"></a>
+</div>
